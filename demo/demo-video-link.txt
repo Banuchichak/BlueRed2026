@@ -1,0 +1,3 @@
+Demo video linki bu fayla əlavə olunacaq (hakaton təqdimatı zamanı).
+https://drive.google.com/file/d/1FsH_bBglwtmUC4M_bG79GglHdQM7AVQo/view?usp=drive_link
+Lokal demo: `npm install && npm start` -> http://localhost:3000

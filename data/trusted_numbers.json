@@ -1,0 +1,32 @@
+[
+  {
+    "id": "biz-1",
+    "name": "AzBank ASC",
+    "type": "Bank",
+    "phone": "+994125551234",
+    "status": "approved",
+    "token": "AZB-M88C-OM6O",
+    "tokenIssuedAt": "2026-06-20T14:45:45.443Z",
+    "tokenTtlMinutes": 30
+  },
+  {
+    "id": "biz-2",
+    "name": "Vergilər Nazirliyi",
+    "type": "Dövlət qurumu",
+    "phone": "+994125559876",
+    "status": "approved",
+    "token": "VER-KIR5-AJY3",
+    "tokenIssuedAt": "2026-06-20T14:45:45.443Z",
+    "tokenTtlMinutes": 30
+  },
+  {
+    "id": "biz-3",
+    "name": "Naməlum Mikro Kredit MMC",
+    "type": "Maliyyə",
+    "phone": "+994505550000",
+    "status": "pending",
+    "token": null,
+    "tokenIssuedAt": null,
+    "tokenTtlMinutes": 30
+  }
+]

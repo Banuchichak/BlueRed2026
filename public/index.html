@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+<meta charset="UTF-8">
+<title>Vishing Shield</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1 class="page-title">🛡️ Vishing Shield — simulyasiya</h1>
+<p class="page-sub">Solda zəng edən, sağda zəng qəbul edən telefonu canlandırır. İkisi bir-biri ilə real vaxtda əlaqəlidir.</p>
+
+<div class="stage">
+
+  <div class="phone-col">
+    <div class="phone-label">📤 Zəng edən</div>
+    <div class="phone">
+      <div class="status-bar">Zəng edən telefonu</div>
+      <div class="screen-body" id="caller-body"></div>
+    </div>
+  </div>
+
+  <div class="phone-col">
+    <div class="phone-label">📥 Zəng qəbul edən</div>
+    <div class="phone">
+      <div class="status-bar" id="receiver-statusbar">Zəng qəbul edən telefonu</div>
+      <div class="screen-body" id="receiver-body"></div>
+    </div>
+  </div>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
