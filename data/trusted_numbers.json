@@ -5,8 +5,8 @@
     "type": "Bank",
     "phone": "+994125551234",
     "status": "approved",
-    "token": "AZB-M88C-OM6O",
-    "tokenIssuedAt": "2026-06-20T14:45:45.443Z",
+    "token": "AZB-FEMW-NOG1",
+    "tokenIssuedAt": "2026-06-20T15:15:45.681Z",
     "tokenTtlMinutes": 30
   },
   {
@@ -15,8 +15,8 @@
     "type": "Dövlət qurumu",
     "phone": "+994125559876",
     "status": "approved",
-    "token": "VER-KIR5-AJY3",
-    "tokenIssuedAt": "2026-06-20T14:45:45.443Z",
+    "token": "VER-IP37-LHVC",
+    "tokenIssuedAt": "2026-06-20T15:15:45.681Z",
     "tokenTtlMinutes": 30
   },
   {
